@@ -65,7 +65,7 @@ Also make the site a good place for starters, by adding tutorials, demo, and too
   - Built with GWT.
 
 
-- JCL / GWT 3
+- J2CL / GWT 3
   - GWT 3.0 progress
   - Writing Apps for GWT 3.0
   - GWT 3.0 vs. GWT 2
