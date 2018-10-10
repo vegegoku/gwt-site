@@ -1,3 +1,7 @@
+[![gitter](https://img.shields.io/badge/gitter.im-Join%20Chat-green.svg)](https://gitter.im/gwtproject/gwt/)
+
+# GWT Site
+
 * [The mission](#the-mission)
 * [Site documentation](#gwt-documentation)
 
